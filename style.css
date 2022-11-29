@@ -62,6 +62,7 @@ img {
 input {
     height: 2rem;
     width: 30vw;
+    border-radius: 5px;
 }
 
 .mainform {
